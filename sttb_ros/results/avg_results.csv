@@ -1,0 +1,25 @@
+Meta-Llama-3.1-8B-Instruct-Q4_K_M;Desplazate 3 metros a la izquierda y luego otros 3 metros hacia adelante;0.791;47.36;43.2362;1.0;50;0
+Meta-Llama-3.1-8B-Instruct-Q4_K_M;Muevete 2 metros a la derecha, pero antes 1 metro atras pero lo primero de todo muevete 3 metros a la izquierda;0.9059;68.32;43.4493;1.0;50;0
+Meta-Llama-3.1-8B-Instruct-Q4_K_M;En segundo lugar avanza hacia adelante 1 metro, en tercer lugar retrocede 2 metros y en primer lugar muevete medio metro hacia la derecha;0.9187;66.04;42.5378;0.0;0;50
+Meta-Llama-3.1-8B-Instruct-Q4_K_M;Muevete 3,47 metros a la izquierda, luego 1 metro y 78 centimetros hacia adelante, y por ultimo, 30 centimetros hacia la derecha;0.9851;66.22;43.8105;1.0;50;0
+Meta-Llama-3.1-8B-Instruct-Q4_K_M;¿Seria tan amable de moverse 3 metros a la derecha, dos metros hacia adelante y luego deshacer todos sus pasos?;0.9374;69.48;42.4285;0.0;0;50
+Phi-3.5-mini-instruct-Q4_K_M;Desplazate 3 metros a la izquierda y luego otros 3 metros hacia adelante;0.5057;55.0;82.2117;1.0;50;0
+Phi-3.5-mini-instruct-Q4_K_M;Muevete 2 metros a la derecha, pero antes 1 metro atras pero lo primero de todo muevete 3 metros a la izquierda;0.59;58.0;81.0791;0.0;0;50
+Phi-3.5-mini-instruct-Q4_K_M;En segundo lugar avanza hacia adelante 1 metro, en tercer lugar retrocede 2 metros y en primer lugar muevete medio metro hacia la derecha;0.5843;79.0;8 3.595;0.0;0;50
+Phi-3.5-mini-instruct-Q4_K_M;Muevete 3,47 metros a la izquierda, luego 1 metro y 78 centimetros hacia adelante, y por ultimo, 30 centimetros hacia la derecha;0.614;81.52;82.7642;1.0;50;0
+Phi-3.5-mini-instruct-Q4_K_M;¿Seria tan amable de moverse 3 metros a la derecha, dos metros hacia adelante y luego deshacer todos sus pasos?;0.5704;81.66;83.0237;0.0;0;50
+Spaetzle-v60-7b-q4-k-m;Desplazate 3 metros a la izquierda y luego otros 3 metros hacia adelante;0.8983;52.0;53.7409;1.0;50;0
+Spaetzle-v60-7b-q4-k-m;Muevete 2 metros a la derecha, pero antes 1 metro atras pero lo primero de todo muevete 3 metros a la izquierda;1.0049;75.0;53.6105;1.0;50;0
+Spaetzle-v60-7b-q4-k-m;En segundo lugar avanza hacia adelante 1 metro, en tercer lugar retrocede 2 metros y en primer lugar muevete medio metro hacia la derecha;1.0126;100.48;53.4801;0.0;0;50
+Spaetzle-v60-7b-q4-k-m;Muevete 3,47 metros a la izquierda, luego 1 metro y 78 centimetros hacia adelante, y por ultimo, 30 centimetros hacia la derecha;1.0624;76.18;53.2764;0.0;0;50
+Spaetzle-v60-7b-q4-k-m;¿Seria tan amable de moverse 3 metros a la derecha, dos metros hacia adelante y luego deshacer todos sus pasos?;0.9863;76.0;52.9627;0.0;0;50
+gemma-2-9b-it-Q4_K_M;Desplazate 3 metros a la izquierda y luego otros 3 metros hacia adelante;0.9978;120.48;31.3139;1.0;50;0
+gemma-2-9b-it-Q4_K_M;Muevete 2 metros a la derecha, pero antes 1 metro atras pero lo primero de todo muevete 3 metros a la izquierda;1.0965;176.88;33.1662;1.0;50;0
+gemma-2-9b-it-Q4_K_M;En segundo lugar avanza hacia adelante 1 metro, en tercer lugar retrocede 2 metros y en primer lugar muevete medio metro hacia la derecha;1.1076;177.0;33.2087;1.0;50;0
+gemma-2-9b-it-Q4_K_M;Muevete 3,47 metros a la izquierda, luego 1 metro y 78 centimetros hacia adelante, y por ultimo, 30 centimetros hacia la derecha;1.1608;176.9;33.4202;1.0;50;0
+gemma-2-9b-it-Q4_K_M;¿Seria tan amable de moverse 3 metros a la derecha, dos metros hacia adelante y luego deshacer todos sus pasos?;1.0091;178.84;34.9392;0.0;0;50
+internlm2_5-7b-chat-q4_k_m;Desplazate 3 metros a la izquierda y luego otros 3 metros hacia adelante;0.8374;45.16;49.0131;0.0;0;50
+internlm2_5-7b-chat-q4_k_m;Muevete 2 metros a la derecha, pero antes 1 metro atras pero lo primero de todo muevete 3 metros a la izquierda;0.9354;65.74;50.4445;0.0;0;50
+internlm2_5-7b-chat-q4_k_m;En segundo lugar avanza hacia adelante 1 metro, en tercer lugar retrocede 2 metros y en primer lugar muevete medio metro hacia la derecha;0.9187;1465.1;51.7679;0.0;0;50
+internlm2_5-7b-chat-q4_k_m;Muevete 3,47 metros a la izquierda, luego 1 metro y 78 centimetros hacia adelante, y por ultimo, 30 centimetros hacia la derecha;1.0324;65.2;47.685;0.72;36;14
+internlm2_5-7b-chat-q4_k_m;¿Seria tan amable de moverse 3 metros a la derecha, dos metros hacia adelante y luego deshacer todos sus pasos?;0.9498;65.7;49.339;0.0;0;50

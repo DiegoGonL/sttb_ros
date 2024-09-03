@@ -1,0 +1,14 @@
+root ::= object
+                
+object ::=
+    "{" ws (
+        "'direction'" ":" ws "'"direction"'" "," ws
+        "'distance'"  ":" ws float ws
+    ) "}" ws
+                
+direction ::= ("FRONT" | "BACK" | "LEFT" | "RIGHT") ws
+                
+float ::= ("-"? ([0-9] | [1-9] [0-9]{0,15})) ("." [0-9]+) ws
+                
+# Optional space: by convention, applied in this grammar after literal chars when allowed
+ws ::= | " " | "\n" [ \t]{0,20}
